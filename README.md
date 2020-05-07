@@ -2,8 +2,14 @@
 
 ## Purpose
 
-To under stand how to construct decision tree from dataset for classification in machine learning. Using [Car Evaluation](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation) data set from UCI. Although it old but it really decent to use for learning and practicing in data science.
+To understand how to construct decision tree from dataset for classification in machine learning. Using [Car Evaluation](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation) data set from UCI. Although it old but it really decent to use for learning and practicing in data science.
 I have already modified data and saved it in [car.xlsx](car.xlsx) file, so that it can be read as excel using pandas library.
+
+## Requires
+
+- [Python3](https://www.python.org/downloads/)
+
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## Implement
 
